@@ -1,1 +1,1 @@
-# Striver-a2z
+# Striver-A2Z-Solution
